@@ -1,0 +1,74 @@
+h1 #titulo{
+    display: inline-block; 
+    position: absolute; 
+    top: 10px; left: 10px;
+}
+h3{
+    display: inline-block; 
+    outline: 3px solid tomato; 
+    position: absolute; 
+    top: 60px; left: 10px;
+}
+img{
+    display: inline-block; 
+    position: relative; 
+    left: 1300px;
+}
+nav{
+    display:inline-block; 
+    position: relative; 
+    top: 100px; 
+    left: 30px; 
+    outline: 3px solid green; 
+    width: 200px;
+}
+li{
+    display: block; 
+    padding: 20px;
+}
+#about_me{
+    position: absolute; 
+    outline: 3px solid blue; 
+    width: 800px; 
+    text-align: center; 
+    top: 330px; 
+    left: 360px;
+}
+#skills{
+    display: inline-block; 
+    position: absolute; 
+    outline: 3px solid blue; 
+    width: 800px; 
+    text-align: center; 
+    top: 650px; 
+    left: 360px;
+}
+
+#proyects{
+    display: inline-block; 
+    position: absolute; 
+    outline: 3px solid blue; 
+    width: 800px; 
+    text-align: center; 
+    top: 850px; 
+    left: 360px;
+}
+
+#contact{
+    display: inline-block; 
+    position: absolute; 
+    outline: 3px solid blue; 
+    width: 800px; 
+    text-align: center; 
+    top: 1080px; 
+    left: 360px;
+}
+
+footer{
+    display: block; 
+    position: absolute; 
+    text-align: center; 
+    top: 1240px; 
+    background-color: cadetblue; 
+    width: 1500px;
+}
